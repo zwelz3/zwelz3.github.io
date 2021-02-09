@@ -1,22 +1,22 @@
 #-------------------------------
 # General Site Settings
-title: Sanara
+title: Zach Welz
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hi, my name is Nick Adams. I’m a Product Designer and Photographer based in NY. I like being at the center of events, being free and enjoying every moment.
+description: Hi, my name is Zach Welz. I’m a nuclear engineer, turned software dev, turned knowledge scientist, turned philosopher. I continuously reach toward new personal growth, and strive each day to stay on the path.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://romantic-northcutt-80bb06.netlify.app" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.zachwelz.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # Author Settings
-author-name: Nick Adams
+author-name: Zach Welz
 
 #-------------------------------
 # Hero Settings
 hero:
   image: '/images/70.jpg'
-  title: Nick Adams
-  description: Thoughts, stories and ideas.
+  title: Zach Welz
+  description: A personal collection of thoughts, feeling, reviews and music.
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -33,8 +33,8 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
-  description: Sanara comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: welz.zach@gmail.com # Add your email for contact form
+  description: Feel free to contact me with any questions! # Add a description of your form
 
 # NOTE
 # Sanara comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -42,7 +42,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: # anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
@@ -52,7 +52,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+mailchimp: false # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
 mailchimp-title: Get Interesting News # Add your title.
 mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
