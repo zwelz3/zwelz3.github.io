@@ -14,17 +14,18 @@ author-name: Zach Welz
 #-------------------------------
 # Hero Settings
 hero:
-  image: '/images/70.jpg'
+  image: '/images/pexels-photo-226721.jpg'
   title: Zach Welz
-  description: A personal collection of thoughts, feeling, reviews and music.
+  description: A personal collection of thoughts, feelings, reviews and music.
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com/"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/WelzPh"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/zachwelz/"}
+# - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# - {icon: "ion-logo-instagram", link: "https://instagram.com"}
+# - {icon: "ion-logo-github", link: "https://github.com"}
+# - {icon: "ion-logo-vimeo", link: "https://vimeo.com/"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://ionicons.com/v4/
