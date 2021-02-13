@@ -16,7 +16,7 @@ author-name: Zach Welz
 hero:
   image: '/images/pexels-photo-226721.jpg'
   title: Zach Welz
-  description: A personal collection of thoughts, feelings, reviews and music.
+  description: A personal collection of thoughts, feelings, and reviews.
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/WelzPh"}
