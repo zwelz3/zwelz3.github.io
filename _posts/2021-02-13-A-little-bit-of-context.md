@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  A little bit of context
+author: zachwelz
 date:   2021-02-13 15:02:35 +0300
 image:  '/images/pexels-bri-schneiter-346529.jpg'
 tags:   [stories, updates]
@@ -24,7 +25,8 @@ So, what am I? Surely not a nuclear engineer, beyond some years of education. Su
 
 I am simply an observer.  
 
-
+<br/>
+Thanks for reading.
 
 
 <sub>

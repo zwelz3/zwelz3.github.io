@@ -2,7 +2,7 @@
 # General Site Settings
 title: Zach Welz
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hello 👋, my name is Zach Welz. I’m a nuclear engineer, turned software developer, turned knowledge scientist, turned philosopher. I continuously reach toward new personal growth, and strive each day to stay on the path.
+description: Hello 👋, my name is Zach Welz. I’m a nuclear engineer, turned software developer, turned knowledge scientist, turned philosopher.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://www.zachwelz.com" # The base hostname & protocol for your site, e.g. http://example.com
 
