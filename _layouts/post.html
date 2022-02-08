@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-{% assign author = site.data.authors[page.author] %}
-{% if page.date_modified %}
-{% assign modified = page.date_modified %}
-{% else %}
-{% assign modified = page.date %}
-{% endif %}
 
 {% if page.image %}
 <!-- begin hero -->
@@ -26,27 +20,13 @@ layout: default
 
   <div class="post-head">
 
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <!-- <div class="post__author">
+      <a href="{{site.baseurl}}/about/" class="post__author-link">{{site.author-name}}</a>
+    </div> -->
+
+    <h1 class="post-title">{{ page.title | escape }}</h1>
 
     <div class="post__meta">
-      <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
-      
-      <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-        <meta itemprop="name" content="{{ site.name }}" />
-        <span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
-          <meta itemprop="url" content="{{ site.url }}/favicon.png" />
-          <meta itemprop="height" content="142" />
-          <meta itemprop="width" content="128" />
-        </span>
-      </span>
-      
-      <meta itemprop="mainEntityOfPage" content="{{ site.url }}" />
-      <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-        <meta itemprop="url" content="{{ site.url }}/favicon.png" />
-        <meta itemprop="height" content="142" />
-        <meta itemprop="width" content="128" />
-      </span>
-
       {% if page.tags.size >= 1 %}
       <div class="post-tags">
         {% for tag in page.tags %}
@@ -62,7 +42,7 @@ layout: default
   </div>
 
   <!-- begin post -->
-  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <article class="post">
 
     <div class="post__content">
       {{ content }}
