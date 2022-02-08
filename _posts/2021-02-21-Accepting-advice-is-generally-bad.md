@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Accepting advice is generally bad
+author: zachwelz
 date:   2021-02-21 15:02:35 +0300
 image:  '/images/pexels-cottonbro-4101143.jpg'
 tags:   [philosophy, understanding]
@@ -26,6 +27,8 @@ So, what should we turn to in lieu of bad advice? While there is no singular ans
 In modern society, personal guides are often professionals with licenses, education, training and experience. While some people are adverse to the idea of using a therapist, these individuals are actually just guides for us to "solve" our own problems. For others, a useful guide may be a close friend, church leader, yogi, or coach. The important thing is that we do not accept advice from others as truth; rather, we see the advice as it applies to us as unique individuals, and use it to discover our own answers. 
 
 If this all seems a bit obvious, or you believe that you are able to successfully follow your path with common ways of seeking advice from popular sources, <ins>that's okay</ins>. The goal is not to change the way we do things, but to change the way we think about it. We are <ins>all</ins> incredibly smart beings with the power to face our problems and come up with our own solutions. All we need is to believe that we have this power, and work to exercise it in our own way. 
+
+Thanks for reading.
 
 
 <sub>
