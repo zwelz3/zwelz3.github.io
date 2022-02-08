@@ -6,13 +6,22 @@
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    {% elseif page.content %}
+    <meta name="description" content="{{ post.content | strip_html | truncatewords: 50 }}" />
+    <meta property="og:description" content="{{ post.content | strip_html | truncatewords: 50 }}" />
     {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
+    <meta name="description" content="A place to think, learn, and grow.">
+    <meta property="og:description" content="A place to think, learn, and grow." />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
+    {% endif %}
+
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image }}">
+    {% else %}
+    <meta property="og:image" content="{{ site.hero.image }}">
     {% endif %}
