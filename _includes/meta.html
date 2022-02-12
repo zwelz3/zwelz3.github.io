@@ -5,7 +5,10 @@
 
     <meta property="og:type" content="website" />
 
-    {% if page.excerpt %}
+    {% if page.synopsis %}
+    <meta name="description" content="{{ page.synopsis| strip_html }}" />
+    <meta property="og:description" content="{{ page.synopsis| strip_html }}" />
+    {% elsif page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
     {% elsif page.content %}
