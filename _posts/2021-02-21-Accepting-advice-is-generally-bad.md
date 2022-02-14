@@ -4,6 +4,7 @@ title:  Accepting advice is generally bad
 author: zachwelz
 date:   2021-02-21 15:02:35 +0300
 image:  '/images/pexels-cottonbro-4101143.jpg'
+synopsis: The context of our personal struggles matters. What should we consider before accepting advice from others?
 tags:   [philosophy, understanding]
 ---
 

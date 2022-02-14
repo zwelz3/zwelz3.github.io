@@ -4,6 +4,7 @@ title:  The value of individuality
 author: zachwelz
 date:   2021-07-11 15:01:35 +0300
 image:  '/images/sangharsh-lohakare-8o_LkMpo8ug-unsplash.jpg'
+synopsis: A look at how the diversity of humanity provides inherent value for every single individual.
 tags:   [philosophy, stories]
 ---
 *Note: this is an early draft release that has not yet undergone full review.*

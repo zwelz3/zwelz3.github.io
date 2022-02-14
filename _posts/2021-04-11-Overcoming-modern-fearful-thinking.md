@@ -4,6 +4,7 @@ title:  Overcoming modern fearful thinking
 author: zachwelz
 date:   2021-04-11 15:01:35 +0300
 image:  '/images/pexels-valdemaras-d-1647962.jpg'
+synopsis: How do we form new thought patterns that help us maintain a positive outlook on an uncertain future?
 tags:   [philosophy]
 ---
 ## Anxiety, Fear, and Awareness
