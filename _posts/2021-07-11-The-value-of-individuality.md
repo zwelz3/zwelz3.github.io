@@ -7,7 +7,7 @@ image:  '/images/sangharsh-lohakare-8o_LkMpo8ug-unsplash.jpg'
 synopsis: A look at how the diversity of humanity provides inherent value for every single individual.
 tags:   [philosophy, stories]
 ---
-*Note: this is an early draft release that has not yet undergone full review.*
+*Note: this draft release is under review.*
 
 When I was young, my mother always told me that I was destined for great things. She loved me beyond measure, and supported me no matter what I was interested in. Her pride in me was evident in her belief that I had no limits to what I could achieve. As a child, this had a profound impact on my early development, especially my ego. I'm not talking about the belief that people should worship the ground I walk on, rather the evolution of my cognitive delusion that I would somehow grow up to be the person that would solve the world's energy problems, cure cancer, or something equally implausible. The result of this expectation was the belief that I would have no value to the world unless I did something thought to be impossible; something that would forever change the way we live. This belief, to any particular extent, is a major factor in the general dissatisfaction that millions of people experience daily across the world, independent of individual circumstances. Lately, I've become more and more interested in exploring this concept in more detail. 
 
